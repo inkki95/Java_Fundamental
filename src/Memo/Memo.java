@@ -174,10 +174,7 @@ int[][] a = new int [3][빈칸] //빈칸이면 동적할당
  객체지향 : 모든 사물은 객체화할 수 있다.는 이론
  
 
-public class ClassDemo {
- }
- 
- class Demo2 {
+// class Demo2 {
  // public은 1개만
  	
  	public static void main(String[] args) {
@@ -188,7 +185,19 @@ public class ClassDemo {
  인스탄스 변수 int age
  클래스 변수 
  
+ Boolean 기본값 : false
+ int 기본값 : 0
+ String 기본값 : null
  
+// 클래스의 멤버 변수 : instance 변수 : 객체가 생성될때만 만들어지는 변수
+// Static 변수 : 공통으로 쓸때, 이름 이메일 폰 다 다름
+//			   ex) 이자율은 공통이므로 Static 
+//                나중에 변경되어도 한번에 접근가능
+// final 변수 : 상수 : 한번정해지면 안바뀌는 변수
+ 일반적으로 private로 멤버변수를 사용. 외부가 보는것을 방지.
+ 
+ 클래스의 접근 한정자는 public, default 두가지 (클래스 첫 선언시 사용하는 한정자)
+
  
  
 

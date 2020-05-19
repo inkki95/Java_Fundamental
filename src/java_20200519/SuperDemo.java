@@ -1,5 +1,19 @@
 package java_20200519;
 
-public class SuperDemo {
+import java.lang.*;
 
+public class SuperDemo extends Object {
+
+}
+
+class A extends Object {
+	A() {
+		super();
+	}
+}	
+
+class B extends A {
+	B() {
+		super();
+	}
 }

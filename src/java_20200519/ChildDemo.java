@@ -13,5 +13,6 @@ public class ChildDemo {
 		c.gotoSchool();
 		c.chicken=("교촌");
 		c.play("omok");
+		
 	}
 }

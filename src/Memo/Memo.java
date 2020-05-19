@@ -1,5 +1,5 @@
 워드 시트 https://docs.google.com/spreadsheets/d/1AJACrAzcSC1yYC_Qa6eQu_oS0usaggwyActXyLhm_BI/edit#gid=17578962
-
+https://github.com/syh1011
 jre downlaod   https://java.com/ko/download/windows-64bit.jsp
 eclipse downolaod    https://www.eclipse.org/downloads/
 jdk 11 download    https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
@@ -197,7 +197,14 @@ int[][] a = new int [3][빈칸] //빈칸이면 동적할당
  일반적으로 private로 멤버변수를 사용. 외부가 보는것을 방지.
  
  클래스의 접근 한정자는 public, default 두가지 (클래스 첫 선언시 사용하는 한정자)
-
+ 
+ 클래스
+ 1.멤버변수(instance변수(생성될때 정해짐) 	static변수(모든 객체에 공유) 	final변수(상수))
+ 2.메서드(instance메서드 	static메서드)
+ 3.생성자
+ 4.다형성
+ 5.캡슐화
+ 6.Call by value & Call by reference-메서드 호출
  
  
 

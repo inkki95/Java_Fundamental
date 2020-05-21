@@ -87,7 +87,7 @@ git config --global user.email "  "
 git config --global user.name "  "
 git commit -m "2020-05-12-v1"
 
-깃허브에서 
+깃허브에서 	
 git remote add origin https://github.com/inkki95/HelloGit.git
 드래그 복사
 git push -u origin master
@@ -206,6 +206,29 @@ int[][] a = new int [3][빈칸] //빈칸이면 동적할당
  5.캡슐화
  6.Call by value & Call by reference-메서드 호출
  
+ import java.lang*
+ class A{
+	 A(int a){
+		 super
+	 }
+ }
+
+ class B extends A{
+	 super
+ }
  
+ 
+ 추상 클래스
+ abstract class XXX{
+ (객체가 없음)
+ }
+ 
+ 자바 컴파일
+ cmd -> java
+ cls : 클리어
 
  
+String클래스는 한번 생성되면 절대로 변하지 않음
+String s1 = "test";
+ String s2 = "test";
+둘이 같은 객체를 가리킴, 같은 주소 같은 레퍼런스

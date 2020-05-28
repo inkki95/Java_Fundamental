@@ -40,7 +40,7 @@ public class UrlDemo {
 		
 		InputStream in = url.openStream();//이미지 정보
 		FileOutputStream fis = new FileOutputStream(
-			"c:\\dev\\300.jpg");
+			"c:\\dev\\300.txt");
 		
 		byte[] readBytes = new byte[1024*8];
 		int readByteCount = 0;

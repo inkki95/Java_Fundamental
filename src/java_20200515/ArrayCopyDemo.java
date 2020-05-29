@@ -2,6 +2,8 @@ package java_20200515;
 
 public class ArrayCopyDemo {
 	public static void main(String[] args) {
+	
+		
 		int[] a = { 1, 2, 3, 4, 5, 6, 7 };
 		int[] b = new int[7];
 		System.arraycopy(a, 1, b, 2, 3);

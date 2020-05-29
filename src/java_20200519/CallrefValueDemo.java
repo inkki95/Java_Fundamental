@@ -19,9 +19,12 @@ k[3] = 4000;
 
 change(i,j);
 System.out.println(i+","+j[3]);
+System.out.println(i+","+k[3]);
 j[3]=2000;
 System.out.println(i+","+j[3]);
-
+System.out.println(i+","+k[3]);
+System.out.println();
+System.out.println();
 
 int a=10;
 double b=10.0;

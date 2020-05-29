@@ -52,7 +52,19 @@ public class ArrayDemo {
 		}		
 		//래퍼런스끼리 참조가능 (동기화)
 		
-		System.out.print("\n");
 		System.out.print(a[0]);
+		System.out.print("\n");
+		
+		int[] cc = {12,23,4,5,65};
+		for (int i : cc) {
+			System.out.print("  "+i);
+		}
+		System.out.print("\n");
+		for (int i = 0; i < cc.length; i++) {
+			System.out.print("  "+cc[i]);
+			
+		}
+		
+		
 	}
 }

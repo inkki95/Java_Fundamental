@@ -2,7 +2,7 @@ package java_20200512;
 
 public class CastingDemo {
 public static void main(String[] args) {
-	
+	//asd
 //	byte a = 128;
 //	 바이트 범위 초과
 	byte a = (byte)128;

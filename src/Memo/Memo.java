@@ -5,6 +5,7 @@ eclipse downolaod    https://www.eclipse.org/downloads/
 jdk 11 download    https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
 드롭박스 qbslqbslxl@naver.com  1
 깃 inkki95 qbslqbslxl@naver.com  3641
+강사님 아이피 : 192.168.0.128
 
 자바 프로젝트 만들면 데이터셋 맞춰줘야함 ms949가 기본값이나 표준이 아님(깃허브에 올리게되면 깨짐)
  -> UTF-8로 변경
